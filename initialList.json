@@ -1,0 +1,11 @@
+[
+    {"name":"coffee",
+        "picture":"http://cdn1.medicalnewstoday.com/content/images/headlines/283/283515/cup-of-coffee-and-beans.jpg",
+        "description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis vel ipsum turpis. Nulla tincidunt eu metus sollicitudin interdum. Vivamus ornare tincidunt justo, id venenatis augue elementum a. Sed condimentum ante a dui posuere fermentum. Vestibulum lacinia, libero at ultricies ullamcorper, erat justo volutpat erat, vitae tempus purus massa sed ante. Aenean imperdiet ultrices consequat. Fusce eu magna in erat tincidunt accumsan sed sed nisi. Nunc tortor nibh, congue vel tempus in, lobortis at erat. Donec venenatis tellus tempus ipsum mattis accumsan. Mauris ultricies elementum velit convallis vestibulum."},
+    {"name":"cappuccino",
+        "picture":"https://images-na.ssl-images-amazon.com/images/I/611Adp3nOhL._SL256_.jpg",
+        "description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis vel ipsum turpis. Nulla tincidunt eu metus sollicitudin interdum. Vivamus ornare tincidunt justo, id venenatis augue elementum a. Sed condimentum ante a dui posuere fermentum. Vestibulum lacinia, libero at ultricies ullamcorper, erat justo volutpat erat, vitae tempus purus massa sed ante. Aenean imperdiet ultrices consequat. Fusce eu magna in erat tincidunt accumsan sed sed nisi. Nunc tortor nibh, congue vel tempus in, lobortis at erat. Donec venenatis tellus tempus ipsum mattis accumsan. Mauris ultricies elementum velit convallis vestibulum."},
+    {"name":"tea",
+        "picture":"http://www.yogi-tea.ru/images/cup.png",
+        "description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis vel ipsum turpis. Nulla tincidunt eu metus sollicitudin interdum. Vivamus ornare tincidunt justo, id venenatis augue elementum a. Sed condimentum ante a dui posuere fermentum. Vestibulum lacinia, libero at ultricies ullamcorper, erat justo volutpat erat, vitae tempus purus massa sed ante. Aenean imperdiet ultrices consequat. Fusce eu magna in erat tincidunt accumsan sed sed nisi. Nunc tortor nibh, congue vel tempus in, lobortis at erat. Donec venenatis tellus tempus ipsum mattis accumsan. Mauris ultricies elementum velit convallis vestibulum."}
+]

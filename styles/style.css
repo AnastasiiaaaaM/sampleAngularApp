@@ -1,0 +1,17 @@
+body{
+    padding: 5px 30px;
+}
+.nav.nav-pills{
+    margin: 20px 0 10px 0;
+}
+.nav.nav-pills li{
+    margin: 0;
+}
+.ng-scope li{
+    font-size: 14px;
+    text-transform: capitalize;
+    margin: 15px 0;
+}
+img{
+    margin: 10px;
+}
